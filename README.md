@@ -37,6 +37,7 @@ docker-compose up
 - create user vis /api/user/register/
 - get access token via /api/user/token/
 ```
+
 ### 🌟Features:
 ```
 - JWT authenticated
@@ -48,3 +49,7 @@ docker-compose up
 - Adding movie sessions
 - Filtering movies and movie sessions
 ```
+
+### 🎨Media
+
+![readme_cinema_swagger.png](readme_cinema_swagger.png)
