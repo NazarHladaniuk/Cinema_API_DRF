@@ -15,7 +15,7 @@ pip install -r requirements.txt
 python manage.py migrate 
 python manage. py runserver
  ```
-Also, add our environment variable to your .env ✏️
+Also, add the correct environment variables to your .env ✏️
 ```
 set DB HOST=<your db hostname> 
 set DB NAME=<your ab name> 
